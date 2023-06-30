@@ -124,3 +124,16 @@ div.section-three-content{
 p.para-content{
     color:#E5E7EB ;
 }
+div.footer{
+    background: #1f2937;
+    color: #F9FAF8;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 40px 0;
+}
+div.group-box-blue img{
+    box-sizing: border-box;
+    width:170px;
+    height: 200px;
+}
