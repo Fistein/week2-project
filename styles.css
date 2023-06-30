@@ -95,3 +95,32 @@ p.quote-author{
     font-size: 24px;
     float: right;
 }
+div.section-three{
+    background: #F9FAF8;
+}
+div.section-three-content{
+    background: #3882F6;
+    color:  #F9FAF8;
+    margin: 30px 50px;
+    text-align: center;
+    padding: 30px 50px;
+    border-radius: 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.button-signup-two{
+    display: block;
+    text-decoration: none;
+    color:  #F9FAF8;
+    border: 2px solid  #F9FAF8;
+    margin: 0 50px;
+    padding: 5px 25px;
+    border-radius: 8px;
+}
+div.section-three-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+p.para-content{
+    color:#E5E7EB ;
+}
